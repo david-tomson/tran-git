@@ -3,7 +3,7 @@ module github.com/david-tomson/tran-git
 go 1.17
 
 require (
-	github.com/abdfnx/gh v0.1.0
+	github.com/abdfnx/gh v0.1.1
 	github.com/spf13/cobra v1.2.1
 )
 

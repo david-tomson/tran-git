@@ -50,8 +50,9 @@ github.com/Netflix/go-expect v0.0.0-20180615182759-c93bf25de8e8 h1:xzYJEypr/85nB
 github.com/Netflix/go-expect v0.0.0-20180615182759-c93bf25de8e8/go.mod h1:oX5x61PbNXchhh0oikYAH+4Pcfw5LKv21+Jnpr6r6Pc=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/Timothee-Cardoso/tc-exe v1.0.0/go.mod h1:dq8JjfgZPLtVNCSxRckj9GPhjaCm7IifIyqmkUgwAiM=
-github.com/abdfnx/gh v0.1.0 h1:JVjfgpClw9j2taZK9K+Uh+fUg4ggvaGWveyRtrW7rE8=
 github.com/abdfnx/gh v0.1.0/go.mod h1:ys3oDJrg0HbmBfp+IBRNgimg7voQRF97hsKz9+hmZf0=
+github.com/abdfnx/gh v0.1.1 h1:xhKf/+8FbtigxmjQYV0k8xpCHlgTAODOo770y2ACxMA=
+github.com/abdfnx/gh v0.1.1/go.mod h1:D+1wetvNz2YwVAi+ZjgVuXmGF2XnkUBBwtojd5uBGQY=
 github.com/abdfnx/git_config v0.0.2/go.mod h1:f1TOBGJT4JEeyrkD3uz1hQtFSBZmdI39ao+yuqXqyAg=
 github.com/abdfnx/git_config v0.0.3/go.mod h1:MVrl8232db9AG+U7riNnkyzn7TxczNmUhPA5ef8Z6Nk=
 github.com/abdfnx/git_config v0.0.32/go.mod h1:ZUF8HzpOLtnx4rbG3r4TeutEOfE1ys+Qd33egGNxcoM=
@@ -111,6 +112,7 @@ github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964/go.mod h1:Xd9
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/david-tomson/tran-git v0.0.1/go.mod h1:nyXPGbSZlsXiSDEqx4raYiHjEEkqAkbNRqTYAi5UpT8=
 github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
 github.com/dgryski/go-sip13 v0.0.0-20181026042036-e10d5fee7954/go.mod h1:vAd38F8PWV+bWy6jNmig1y/TA+kYO4g3RSRF0IAv0no=
 github.com/dlclark/regexp2 v1.2.0/go.mod h1:2pZnwuY/m+8K6iRw6wQdMtk+rH5tNGR1i55kozfMjCc=
